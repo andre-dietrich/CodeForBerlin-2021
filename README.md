@@ -1,7 +1,7 @@
 <!--
 author:   André Dietrich & Sebastian Zug
 email:    LiaScript@web.de
-version:  0.0.1
+version:  0.0.2
 language: en
 narrator: US English Female
 -->
@@ -28,7 +28,7 @@ https://github.com/liascript/liascript
 
 [VIVALDI-BACH; Concerto in D Major 1. Allegro](https://upload.wikimedia.org/wikipedia/commons/3/3f/VIVALDI-BACH%3B_Concerto_in_D_Major_1._Allegro%2C_BWV._972.ogg)
 
-[LiaScript Multimedia Basics](https://www.youtube.com/watch?v=OFYlbphBZiA)
+[LiaScript Multimedia Basics](https://www.youtube.com/watch?v=bICfKRyKTwE)
 
 [Animal cell](https://sketchfab.com/3d-models/animal-cell-downloadable-ddc40bb0900544959f02d3ff83c32615)
 
